@@ -1146,7 +1146,7 @@ Gold:             #FFD93D
 
 Text:             #FFFFFF
 Text-Secondary:   #B0B0CC
-Text-Muted:       #7070A0
+Text-Muted:       #9090A8
 Text-Disabled:    #404060
 
 Border:           #2A2A45
